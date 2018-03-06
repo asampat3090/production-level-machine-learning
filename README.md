@@ -2,9 +2,10 @@
 
 A curated list of awesome open source repositories for data pipelining and machine learning in production. 
 
-https://github.com/instacart/lore
-https://github.com/apache/incubator-airflow
-https://github.com/spotify/luigi
-https://github.com/beniz/deepdetect
-https://github.com/datmo/datmo
-https://github.com/dataversioncontrol/dvc
+
+* https://github.com/instacart/lore
+* https://github.com/apache/incubator-airflow
+* https://github.com/spotify/luigi
+* https://github.com/beniz/deepdetect
+* https://github.com/datmo/datmo
+* https://github.com/dataversioncontrol/dvc
