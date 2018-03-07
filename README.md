@@ -15,3 +15,8 @@ A curated list of awesome open source repositories for data pipelining and machi
 * https://github.com/IDSIA/sacred (reproduce experiments with a GUI to track) 
 * https://github.com/pachyderm/pachyderm (reproducible way to version data and ETL pipelines)
 * https://github.com/fridiculous/django-estimators (specific to django and scikit-learn estimators)
+
+For Production Systems
+* https://github.com/Hydrospheredata
+* https://github.com/Hydrospheredata/mist
+* https://github.com/Hydrospheredata/hydro-serving
