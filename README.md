@@ -10,7 +10,7 @@ Data Pipelining
 
 Model Management
 * https://github.com/datmo/datmo (replicable model versions)
-* https://github.com/mitdbg/modeldb (system for managing machine learning models) 
+* https://github.com/mitdbg/modeldb (system for managing machine learning models -- scikit-learn & spark.ml) 
 * https://github.com/dataversioncontrol/dvc (replicable etl and feature extraction pipelines) 
 * https://github.com/drivendata/cookiecutter-data-science (replicable file structures for data projects) 
 * https://github.com/jhclark/ducttape (replicable running of code) 
