@@ -19,6 +19,10 @@ Model Management
 * https://github.com/pachyderm/pachyderm (reproducible way to version data and ETL pipelines)
 * https://github.com/fridiculous/django-estimators (specific to django and scikit-learn estimators)
 
+
+Training for Machine Learning / Deep Learning
+* https://github.com/IBM/FfDL
+
 For Production Systems / Model Serving
 * https://github.com/Hydrospheredata
 * https://github.com/Hydrospheredata/mist
