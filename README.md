@@ -18,6 +18,7 @@ Model Management
 * https://github.com/IDSIA/sacred (reproduce experiments with a GUI to track) 
 * https://github.com/pachyderm/pachyderm (reproducible way to version data and ETL pipelines)
 * https://github.com/fridiculous/django-estimators (specific to django and scikit-learn estimators)
+* https://github.com/IBM/MAX (model template for tracking model types)
 
 
 Training for Machine Learning / Deep Learning
