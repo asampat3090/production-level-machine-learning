@@ -19,6 +19,7 @@ Model Management
 * https://github.com/pachyderm/pachyderm (reproducible way to version data and ETL pipelines)
 * https://github.com/fridiculous/django-estimators (specific to django and scikit-learn estimators)
 * https://github.com/IBM/MAX (model template for tracking model types)
+* https://github.com/oleg-panichev/kinoa (save experiment results easily)
 
 
 Training for Machine Learning / Deep Learning
