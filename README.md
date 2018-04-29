@@ -13,6 +13,7 @@ Model Management
 * https://github.com/mitdbg/modeldb (system for managing machine learning models -- scikit-learn & spark.ml) 
 * https://github.com/dataversioncontrol/dvc (replicable etl and feature extraction pipelines) 
 * https://github.com/drivendata/cookiecutter-data-science (replicable file structures for data projects) 
+* https://github.com/manifoldai/docker-cookiecutter-data-science (fork of above to run cookie-cutter project in a Docker container)
 * https://github.com/jhclark/ducttape (replicable running of code) 
 * https://github.com/galeone/dynamic-training-bench (tensorflow training and tuning) 
 * https://github.com/IDSIA/sacred (reproduce experiments with a GUI to track) 
