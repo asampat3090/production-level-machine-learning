@@ -8,8 +8,9 @@ Data Pipelining
 * https://github.com/spotify/luigi
 * https://github.com/beniz/deepdetect 
 
-Model Management
+Model / Experiment Management
 * https://github.com/datmo/datmo (replicable model versions)
+* https://github.com/databricks/mlflow (trackable experiment runs)
 * https://github.com/mitdbg/modeldb (system for managing machine learning models -- scikit-learn & spark.ml) 
 * https://github.com/dataversioncontrol/dvc (replicable etl and feature extraction pipelines) 
 * https://github.com/drivendata/cookiecutter-data-science (replicable file structures for data projects) 
