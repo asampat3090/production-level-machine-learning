@@ -10,7 +10,7 @@ Data Pipelining
 
 Model / Experiment Management
 * https://github.com/datmo/datmo (replicable model versions)
-* https://github.com/databricks/mlflow (trackable experiment runs)
+* https://github.com/databricks/mlflow (machine learning experiment tracking)
 * https://github.com/mitdbg/modeldb (system for managing machine learning models -- scikit-learn & spark.ml) 
 * https://github.com/dataversioncontrol/dvc (replicable etl and feature extraction pipelines) 
 * https://github.com/drivendata/cookiecutter-data-science (replicable file structures for data projects) 
@@ -18,7 +18,6 @@ Model / Experiment Management
 * https://github.com/jhclark/ducttape (replicable running of code) 
 * https://github.com/galeone/dynamic-training-bench (tensorflow training and tuning) 
 * https://github.com/IDSIA/sacred (reproduce experiments with a GUI to track) 
-* https://github.com/databricks/mlflow (machine learning experiment tracking)
 * https://github.com/pachyderm/pachyderm (reproducible way to version data and ETL pipelines)
 * https://github.com/fridiculous/django-estimators (specific to django and scikit-learn estimators)
 * https://github.com/IBM/MAX (model template for tracking model types)
