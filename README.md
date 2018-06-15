@@ -33,3 +33,6 @@ For Production Systems / Model Serving
 * https://github.com/Hydrospheredata/mist
 * https://github.com/Hydrospheredata/hydro-serving
 * https://github.com/ucbrise/clipper
+
+References
+* https://www.researchgate.net/publication/229869757_An_Introduction_to_Model_Versioning
