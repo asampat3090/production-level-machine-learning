@@ -9,6 +9,7 @@ Data Pipelining
 * https://github.com/beniz/deepdetect 
 
 Model / Experiment Management
+* https://github.com/polyaxon/polyaxon (reproducible machine learning at scale)
 * https://github.com/datmo/datmo (replicable model versions)
 * https://github.com/databricks/mlflow (machine learning experiment tracking)
 * https://github.com/mitdbg/modeldb (system for managing machine learning models -- scikit-learn & spark.ml) 
